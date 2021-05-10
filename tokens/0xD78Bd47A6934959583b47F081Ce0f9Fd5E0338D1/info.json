@@ -1,0 +1,11 @@
+{
+    "name": "TeaCrypto Finance",
+    "type": "BEP20",
+    "symbol": "TCF",
+    "decimals": 18,
+    "website": "https://teacrypto.finance/",
+    "description": "TeaCrypto Finance is a multi-chain financial application born with the aim of bringing an open currency solution to investors, built to integrate inter-chain solutions in savings. payment, transactions, money market, ... DeFi TCF ecosystem develops a variety of products to serve users wishing to easily access DeFi, including: TCF Dashboard, TCF Exchange , TCF Lend, TCF Portfolio, Yield Farming, TCF NFT, TCF Pay.",
+    "explorer": "https://bscscan.com/token/0xD78Bd47A6934959583b47F081Ce0f9Fd5E0338D1",
+    "status": "active",
+    "id": "0xD78Bd47A6934959583b47F081Ce0f9Fd5E0338D1"
+}
